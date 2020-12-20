@@ -8,3 +8,5 @@ GOOGLE DRIVE - 3D students https://drive.google.com/drive/folders/1X4FyiF4JrSol7
 ```
 ZAD - Przygotuj model samolotu w oparciu o technikę zakleszczenia dwóch przekrojów wyciętych na wycinarce laserowej.
 ```
+![Spitfire](/Spitfire.JPG)
+![PZL37](/PZL37_.JPG)
